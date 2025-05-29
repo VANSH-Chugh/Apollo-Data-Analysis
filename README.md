@@ -71,7 +71,7 @@ When a `Patient_ID` is selected, the dashboard shows:
 - Billing vs. insurance breakdown for the case  
 - Feedback linked to assigned doctor
 
-![Individual Patient Dashboard](Images/Patient-View-Dashboard.png)
+![Individual Patient Dashboard](https://github.com/VANSH-Chugh/Apollo-Data-Analysis/blob/main/Images/Per%20Patient.png)
 
 ---
 
